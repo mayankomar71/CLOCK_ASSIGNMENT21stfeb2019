@@ -1,1 +1,1 @@
-# CLOCK_ASSIGNMENT21stfeb2019
+In this Assignment I have created a program that displays  Day,Date& time
